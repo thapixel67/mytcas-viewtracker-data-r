@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-10-27 01:25:30",
+  "last_sync": "2026-10-27 01:36:57",
   "programs": [
     {
       "id": "10010111110101A",
@@ -8,8 +8,7 @@
       "university": "จุฬาลงกรณ์มหาวิทยาลัย",
       "abbr": "CU",
       "category": "med",
-      "quota": 300,
-      "views": 1
+      "quota": 300
     },
     {
       "id": "10010121110101A",
@@ -18,8 +17,7 @@
       "university": "จุฬาลงกรณ์มหาวิทยาลัย",
       "abbr": "CU",
       "category": "comp",
-      "quota": 110,
-      "views": 1
+      "quota": 110
     },
     {
       "id": "10020115110101A",
@@ -28,8 +26,7 @@
       "university": "มหาวิทยาลัยธรรมศาสตร์",
       "abbr": "TU",
       "category": "law",
-      "quota": 350,
-      "views": 1
+      "quota": 350
     },
     {
       "id": "10020116110101A",
@@ -38,8 +35,7 @@
       "university": "มหาวิทยาลัยธรรมศาสตร์",
       "abbr": "TU",
       "category": "biz",
-      "quota": 360,
-      "views": 1
+      "quota": 360
     },
     {
       "id": "10030118110101A",
@@ -48,8 +44,7 @@
       "university": "มหาวิทยาลัยมหิดล",
       "abbr": "MU",
       "category": "med",
-      "quota": 305,
-      "views": 1
+      "quota": 305
     },
     {
       "id": "10050122110101A",
@@ -58,8 +53,7 @@
       "university": "มหาวิทยาลัยเกษตรศาสตร์",
       "abbr": "KU",
       "category": "comp",
-      "quota": 72,
-      "views": 1
+      "quota": 72
     },
     {
       "id": "10010138113101A",
@@ -69,7 +63,7 @@
       "abbr": "CU",
       "category": "human",
       "quota": 100,
-      "views": 1
+      "views": 42181
     },
     {
       "id": "10040117110101A",
@@ -78,8 +72,7 @@
       "university": "มหาวิทยาลัยเชียงใหม่",
       "abbr": "CMU",
       "category": "econ",
-      "quota": 180,
-      "views": 1
+      "quota": 180
     },
     {
       "id": "10060126110101A",
@@ -88,8 +81,7 @@
       "university": "มหาวิทยาลัยขอนแก่น",
       "abbr": "KKU",
       "category": "med",
-      "quota": 80,
-      "views": 1
+      "quota": 80
     },
     {
       "id": "10090124110101A",
@@ -98,8 +90,7 @@
       "university": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
       "abbr": "KMITL",
       "category": "comp",
-      "quota": 60,
-      "views": 1
+      "quota": 60
     },
     {
       "id": "10070125110101A",
@@ -108,8 +99,7 @@
       "university": "มหาวิทยาลัยสงขลานครินทร์",
       "abbr": "PSU",
       "category": "med",
-      "quota": 95,
-      "views": 1
+      "quota": 95
     },
     {
       "id": "10070119110101A",
@@ -118,8 +108,7 @@
       "university": "มหาวิทยาลัยสงขลานครินทร์",
       "abbr": "PSU",
       "category": "econ",
-      "quota": 140,
-      "views": 1
+      "quota": 140
     }
   ]
 }
